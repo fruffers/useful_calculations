@@ -55,3 +55,12 @@ Examples:
 3. Take answer and subtract from the Dividend 2 - 0 = 2
 
 https://visualfractions.com/calculator/modulo/what-is-2-mod-6/
+
+
+
+# Storing numbers in 1D array and getting the index value by giving the row and column
+
+The index of the value at `(x, y)` in a 1D array is given by: index=y×width+x\text{index} = y \times \text{width} + xindex=y×width+x
+
+
+
